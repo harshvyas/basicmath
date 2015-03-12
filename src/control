@@ -1,0 +1,9 @@
+Package: basicmath
+Version: #VERSION# 
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: Harsh Vyas
+Description: Prints sum of two integers on screen
